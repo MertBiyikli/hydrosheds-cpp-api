@@ -341,5 +341,5 @@ app/CMakeFiles/hydrosheds_app.dir/hydrosheds_app.cc.o: \
   /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/__bsd_locale_defaults.h \
   /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/bitset \
   /Library/Developer/CommandLineTools/usr/bin/../include/c++/v1/array \
-  /Users/halilibrahim/hydrosheds-cpp-api/app/interface_1.h \
-  /Users/halilibrahim/hydrosheds-cpp-api/app/interface_2.h
+  /Users/halilibrahim/hydrosheds-cpp-api/app/../build/proposal/RiverSegment.h \
+  /Users/halilibrahim/hydrosheds-cpp-api/app/../build/proposal/HydroShedsDataSet.h

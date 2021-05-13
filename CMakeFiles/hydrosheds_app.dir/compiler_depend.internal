@@ -353,4 +353,7 @@ app/CMakeFiles/hydrosheds_app.dir/hydrosheds_app.cc.o
  /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk/usr/include/_types/_nl_item.h
  /Library/Developer/CommandLineTools/usr/include/c++/v1/__bsd_locale_defaults.h
  /Library/Developer/CommandLineTools/usr/include/c++/v1/bitset
+ /Library/Developer/CommandLineTools/usr/include/c++/v1/array
+ /Users/halilibrahim/hydrosheds-cpp-api/build/proposal/RiverSegment.h
+ /Users/halilibrahim/hydrosheds-cpp-api/build/proposal/HydroShedsDataSet.h
 

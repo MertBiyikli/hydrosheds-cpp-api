@@ -351,8 +351,13 @@ app/CMakeFiles/hydrosheds_app.dir/hydrosheds_app.cc.o: ../app/hydrosheds_app.cc 
   /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk/usr/include/sys/_types/_fsfilcnt_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk/usr/include/_types/_nl_item.h \
   /Library/Developer/CommandLineTools/usr/include/c++/v1/__bsd_locale_defaults.h \
-  /Library/Developer/CommandLineTools/usr/include/c++/v1/bitset
+  /Library/Developer/CommandLineTools/usr/include/c++/v1/bitset \
+  /Library/Developer/CommandLineTools/usr/include/c++/v1/array \
+  proposal/RiverSegment.h \
+  proposal/HydroShedsDataSet.h
 
+
+/Library/Developer/CommandLineTools/usr/include/c++/v1/array:
 
 /Library/Developer/CommandLineTools/usr/include/c++/v1/bitset:
 
@@ -604,6 +609,8 @@ app/CMakeFiles/hydrosheds_app.dir/hydrosheds_app.cc.o: ../app/hydrosheds_app.cc 
 
 /Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include/avx512vbmivlintrin.h:
 
+proposal/HydroShedsDataSet.h:
+
 /Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include/movdirintrin.h:
 
 /Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include/avx512vbmiintrin.h:
@@ -715,6 +722,8 @@ app/CMakeFiles/hydrosheds_app.dir/hydrosheds_app.cc.o: ../app/hydrosheds_app.cc 
 /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk/usr/include/sys/_types/_mach_port_t.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk/usr/include/locale.h:
+
+proposal/RiverSegment.h:
 
 /Library/Developer/CommandLineTools/usr/include/c++/v1/cstdint:
 
